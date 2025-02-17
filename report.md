@@ -1,0 +1,2 @@
+# Report
+In this assignment, I created a simple "About Me" webpage that displays my Wits student ID. I initialized a Git repository, added the required files, committed them, and deployed the site to GitHub Pages.
